@@ -1,0 +1,6 @@
+train: /home/updalla/Documents/traffic/train/images
+val: /home/updalla/Documents/traffic/valid/images
+test: /home/updalla/Documents/traffic/test/images
+
+nc: 4
+names: ["bajaaj", "license_plate", "person", "vehicle"]

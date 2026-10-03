@@ -1,0 +1,10 @@
+[project]
+name = "mogadishu-traffic"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "easyocr>=1.7.2",
+    "ultralytics>=8.4.170",
+]
